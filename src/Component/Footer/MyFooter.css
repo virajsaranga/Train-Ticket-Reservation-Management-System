@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+.my-footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.my-footer ul>li {
+  padding: 4px;
+  color: #808080;
+}
+
+.my-footer ul>li:hover {
+  color: #957bda;
+  cursor: pointer;
+}
+
+.my-footer hr {
+  border-width: 3px;
+}
+
+.my-footer .card {
+  padding: 2% 7%;
+  border: 0;
+  background: linear-gradient(to bottom, #e0e0e06f 20%, #ffffff 50%);
+  border-radius: 0;
+}
+
+.my-footer .social>i {
+  padding: 1%;
+  font-size: 15px;
+}
+
+.my-footer .social>i:hover {
+  color: #957bda;
+  cursor: pointer;
+}
+
+.my-footer .heading {
+  font-family: 'Titillium Web', sans-serif;
+  color: black;
+}
+
+.my-footer .divider {
+  border-top: 2px solid;
+}

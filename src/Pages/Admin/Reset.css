@@ -1,0 +1,14 @@
+.nice.form-gap {
+    padding-top: 70px;
+}
+
+.nice {
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30342f5d-aa8f-4f2d-ac5f-2c1b06ed2fbb/dfmbvqy-eee0a052-1bac-46d5-9062-b9aaf0d3ffbe.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMwMzQyZjVkLWFhOGYtNGYyZC1hYzVmLTJjMWIwNmVkMmZiYlwvZGZtYnZxeS1lZWUwYTA1Mi0xYmFjLTQ2ZDUtOTA2Mi1iOWFhZjBkM2ZmYmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ho39h4mstQU8xrbSl9rSuzzB7rT3Z6GWpzSlZ-SO508');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
